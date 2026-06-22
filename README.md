@@ -1,2 +1,2 @@
-# Data-Analyst-Portfolio
-Hi, my name is Sam! I am a data analyst with a background in Math. 
+# Portfolio
+Hi, my name is Sam! I'm interested in Actuarial Science, Data Analytics, and Math!
